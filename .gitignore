@@ -12,6 +12,10 @@
 # Sync conflicts
 .sync-conflict*
 
+.stfolder*
+.sync-conflict*
+.DS_Store
+.obsidian/
 # Logs / temp
 *.log
 *.tmp
