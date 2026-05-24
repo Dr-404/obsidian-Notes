@@ -1,0 +1,119 @@
+# 📅 <% tp.date.now("YYYY-MM-DD") %> (<% tp.date.now("dddd") %>)
+
+---
+
+## 🎯 Strategic Focus (Top Outcomes)
+> What actually matters today (not tasks — outcomes)
+
+1. 
+2. 
+3. 
+
+---
+
+## 🧭 Active Projects (Max 5)
+| Project | Next Action | Status       |
+| ------- | ----------- | ------------ |
+|         |             | 🔴 / 🟡 / 🟢 |
+|         |             |              |
+
+---
+
+## ⚡ Execution Queue (Ranked)
+> Single source of truth for tasks
+
+1. [ ] 
+2. [ ] 
+3. [ ] 
+4. [ ] 
+5. [ ] 
+
+---
+
+## 🧠 Deep Work Sessions
+### Session 1
+- Focus:
+- Time Block:
+- Goal:
+- Result:
+
+### Session 2
+- Focus:
+- Time Block:
+- Goal:
+- Result:
+
+---
+
+## 🔄 Context Switch Log (IMPORTANT)
+> Track switches → reduce inefficiency
+
+| Time | From → To | Reason |
+| ---- | --------- | ------ |
+|      |           |        |
+
+---
+
+## 📞 Meetings / Communication
+| Time | Topic | Outcome | Follow-up |
+|------|------|--------|-----------|
+|      |      |        |           |
+
+---
+
+## 📥 Capture / Inbox
+> Dump everything here (no thinking)
+
+- 
+- 
+- 
+
+---
+
+## 🚧 Blockers & Risks
+| Issue | Impact | Mitigation |
+|------|--------|------------|
+|      |        |            |
+
+---
+
+## 🔁 Delegation / Waiting
+- [ ] Task — Owner — Due date
+
+---
+
+## 📊 Performance Metrics
+- Focus Score (1–10):
+- Output Score (1–10):
+- Distraction Count:
+- Context Switch Count:
+
+---
+
+## 🧠 Key Decisions Made
+- Decision:
+- Reason:
+- Impact:
+
+---
+
+## 🔄 End-of-Day Review
+
+### ✅ Wins (Outcome-based)
+- 
+
+### ❌ Gaps
+- 
+
+### 🔍 Root Cause
+- (why things failed)
+
+### 🔧 Optimization for Tomorrow
+- 
+
+---
+
+## 📅 Tomorrow Setup (Critical)
+- Top Outcome 1:
+- Top Outcome 2:
+- First Task (start here, no thinking):
